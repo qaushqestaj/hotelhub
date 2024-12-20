@@ -2,9 +2,9 @@ I am building this project for hotel management in Austria.
 
 Technologies:
 
-React <be>
-<strong>Routing:</strong> React Router <br>
-Remote UI State Management: React Query <br>
-UI State management: Context API <br>
-Styling: Styled Components <br>
-Backend: Supabase
+React <br>
+<strong>Routing:</strong> React Router <be>
+<strong>Remote UI State Management:</strong> React Query <be>
+<strong>UI State management:</strong> Context API <be>
+<strong>Styling:</strong> Styled Components <be>
+<strong>Backend:</strong> Supabase
