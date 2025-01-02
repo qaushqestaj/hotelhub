@@ -1,4 +1,4 @@
-import { useQueryErrorResetBoundary } from '@tanstack/react-query';
+import { useQuery } from '@tanstack/react-query';
 import { getCabins } from '../../services/apiCabins';
 
 export function useCabins() {
@@ -6,7 +6,7 @@ export function useCabins() {
     isLoading,
     data: cabins,
     error,
-  } = useQueryErrorResetBoundary({
+  } = useQuery({
     queryKey: ['cabins'],
     queryFn: getCabins,
   });
