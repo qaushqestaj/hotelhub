@@ -8,3 +8,6 @@ React <br>
 <strong>UI State management:</strong> Context API <br>
 <strong>Styling:</strong> Styled Components <br>
 <strong>Backend:</strong> Supabase
+
+Check website:
+https://hotelhub-qaush.netlify.app
