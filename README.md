@@ -1,4 +1,4 @@
-I am building this project for hotel management in Austria.
+A dashboard application for hotel staff.
 
 Technologies:
 
