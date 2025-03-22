@@ -122,12 +122,24 @@ body {
   font-size: 1.6rem;
 }
 
+/* body.dark-mode input {
+  background-color: #333; 
+  color: #fff; 
+  border: 1px solid #444; 
+}
+
+body.dark-mode input {
+  background-color: #333; 
+  color: #fff; 
+  border: 1px solid #444;
+} */
+
 input,
 button,
 textarea,
 select {
   font: inherit;
-  color: inherit;
+  color: --color-grey-700;
 }
 
 button {
